@@ -1,0 +1,1 @@
+# shinmbti.github.io
