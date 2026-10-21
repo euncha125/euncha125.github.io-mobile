@@ -1,1 +1,1 @@
-# shinmbti.github.io
+핸드폰용 검사지 화면
